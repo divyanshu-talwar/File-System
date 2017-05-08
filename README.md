@@ -1,4 +1,4 @@
-# file_system
+# Pseudo File System
 A mock file system implemented in C.
 
 ## Contributors
